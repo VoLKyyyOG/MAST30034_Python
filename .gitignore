@@ -114,5 +114,5 @@ dmypy.json
 .pyre/
 
 # data directories
-/plots
-/data
+/data/tlc_data
+/data/tute_data
