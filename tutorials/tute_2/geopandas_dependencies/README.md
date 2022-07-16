@@ -1,0 +1,1 @@
+We have downloaded the wheels for Windows 10/11 (64bit) from Python 3.8.x - 3.11.x
