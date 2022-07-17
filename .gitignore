@@ -116,3 +116,5 @@ dmypy.json
 # data directories
 /data/tlc_data
 /data/tute_data
+
+.DS_Store
