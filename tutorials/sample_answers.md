@@ -36,3 +36,5 @@ Tutorial 3:
   loss <- MSE(y_test, y_pred)
   ```
   - No. The standardization is carried out before the train-test split. This leaks information from validation set to model training.
+- What happens when input matrix is not full rank?
+  - Resulting $\beta$ is not unique.
